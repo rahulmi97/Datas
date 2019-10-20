@@ -4,7 +4,7 @@
 {"id":3,"name":"Power bank","offer":"upto 40%","url":"https://www.zorook.com/wp-content/uploads/2015/12/Xiaomi-Mi-Power-Bank-10400-mAh.png"},
 {"id":4,"name":"Charger","offer":"upto 20%","url":"https://mykidsconnect.com/image/cache/catalog/accessories/Phone-USB-Charger-Bundle-Accessories-1000x1000.png"}]},
 {"id":2,"name":"Up to 70% off | Footwear","subpro":[
-{"name":"men's footwear","offer":"upto 70% off","url":"https://imcut.jollychic.com//uploads/jollyimg/imageLibrary/201903/338/25/IL201903251754146310.png"},
-{"name":"women's footwear","offer":"upto 70% off","url":"https://sslimages.shoppersstop.com/sys-master/images/hd8/h13/9086499586078/7905164_9100.png_1088Wx1632H"},
-{"name":"kids's footwear","offer":"upto 70% off","url":"https://www.ddsdiscounts.com/media/3183/dept_kidsshoes.png"},
-{"name":"view all","offer":"upto 70% off","url":"https://images.vans.com/is/image/VansBrand/h19-tnbc-header-shoes?wid=915&fmt=png-alpha"}]}]}
+{"id":"f_1","name":"men's footwear","offer":"upto 70% off","url":"https://imcut.jollychic.com//uploads/jollyimg/imageLibrary/201903/338/25/IL201903251754146310.png"},
+{"id":"f_2","name":"women's footwear","offer":"upto 70% off","url":"https://sslimages.shoppersstop.com/sys-master/images/hd8/h13/9086499586078/7905164_9100.png_1088Wx1632H"},
+{"id":"f_3","name":"kids's footwear","offer":"upto 70% off","url":"https://www.ddsdiscounts.com/media/3183/dept_kidsshoes.png"},
+{"id":"f_4","name":"view all","offer":"upto 70% off","url":"https://images.vans.com/is/image/VansBrand/h19-tnbc-header-shoes?wid=915&fmt=png-alpha"}]}]}
